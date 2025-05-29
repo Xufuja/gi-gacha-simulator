@@ -28,6 +28,7 @@ if (x < prob5) {
 	drop(3star)
 	counter5 += 1;
 	counter4 += 1;
-
 }
 ```
+
+This does not include the 50/50, just the chance at getting a 5 Star in general.
